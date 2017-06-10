@@ -26,20 +26,20 @@ The Entando platform (from **v4.2-TP1**) project includes also the following Git
 
 An interesting tool to build Entando page models is available in the following link: [Entando Page Models Builder] (http://stealthefish.com/EntandoPageModelsBuilder/#codeXML), (currently, it's compatible with Entando v4.0.0).
 
-See the [WIKI] (https://github.com/entando/entando-core/wiki) pages for more information and operational details of the project. At the moment, the wiki pages are:
+See the [WIKI](https://github.com/entando/entando-core/wiki) pages for more information and operational details of the project. At the moment, the wiki pages are:
 
-* [Getting Started] (https://github.com/entando/entando-core/wiki/Getting-Started) page describes step-by-step instructions for preparing your system for installation, and for installing a single Entando instance.
-* [How It Works] (https://github.com/entando/entando-core/wiki/How-iT-Works) page provides contents and architectural design to understand the Entando platform and its components.
-* [How To Use] (https://github.com/entando/entando-core/wiki/How-To-Use) page provides contents to start basic implementation.
-* [FAQ] (https://github.com/entando/entando-core/wiki/Faq) page provides all the answers to general questions.
+* [Getting Started](https://github.com/entando/entando-core/wiki/Getting-Started) page describes step-by-step instructions for preparing your system for installation, and for installing a single Entando instance.
+* [How It Works](https://github.com/entando/entando-core/wiki/How-iT-Works) page provides contents and architectural design to understand the Entando platform and its components.
+* [How To Use](https://github.com/entando/entando-core/wiki/How-To-Use) page provides contents to start basic implementation.
+* [FAQ](https://github.com/entando/entando-core/wiki/Faq) page provides all the answers to general questions.
 
-You can contribute to our Open Source project, please read [GitHub guidelines] (https://guides.github.com/activities/contributing-to-open-source/#contributing).
+You can contribute to our Open Source project, please read [GitHub guidelines](https://guides.github.com/activities/contributing-to-open-source/#contributing).
 
-You can request bug fixes and new features on the [issues] (https://github.com/entando/entando-core/issues) page.
+You can request bug fixes and new features on the [issues](https://github.com/entando/entando-core/issues) page.
 
 For latest updated news, please visit the company website: http://www.entando.com.
 
-For any support request, please use [Twitter] (https://twitter.com/Entando).
+For any support request, please use [Twitter](https://twitter.com/Entando).
 
 Enjoy!
 
